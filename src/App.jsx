@@ -123,7 +123,7 @@ function App() {
           </div>
         </div>
         <div className="col-start-1 row-start-2 bg-amber-600 flex items-center justify-center">
-          <h1 className="text-3xl sm:text-5xl">Robotics Activity 1</h1>
+          <h1 className="text-3xl sm:text-5xl">Putangina</h1>
         </div>
       </div>
     </>

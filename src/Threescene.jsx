@@ -25,7 +25,7 @@ const ThreeScene = () => {
 
     // Load GLTF Model
     const loader = new GLTFLoader();
-    const robotUrl = "/Robotics_4.glb";
+    const robotUrl = "/Assemble/Robotics_4.glb";
 
     loader.load(
       robotUrl,
